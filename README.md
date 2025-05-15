@@ -21,3 +21,5 @@ git config --global user.email "ajing@example.com"
 
 git remote add origin https://github.com/lululynne/softbody-miniapp.git
 git push -u origin master
+
+ssh-keygen -t ed25519 -C "你的GitHub邮箱"
