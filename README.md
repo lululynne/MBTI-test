@@ -7,3 +7,5 @@
 ]
 
 {}
+
+cd /d/微信小程序/aihe_softbody_mini
