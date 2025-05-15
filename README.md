@@ -1,4 +1,4 @@
-# MBTI-test
+ # MBTI-test
 
 "pages": [
   "pages/index/index",
@@ -18,3 +18,6 @@ git commit -m "first commit"
 
 git config --global user.name "Ajing"
 git config --global user.email "ajing@example.com"
+
+git remote add origin https://github.com/lululynne/softbody-miniapp.git
+git push -u origin master
