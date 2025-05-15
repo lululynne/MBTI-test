@@ -11,3 +11,5 @@
 
 
 git push -u origin master
+
+cd /e/xiaochengxu/aihe_softbody_mini
