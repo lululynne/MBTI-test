@@ -15,3 +15,6 @@ git add .
 git config --global --add safe.directory E:/xiaochengxu/aihe_softbody_mini
 
 git commit -m "first commit"
+
+git config --global user.name "Ajing"
+git config --global user.email "ajing@example.com"
