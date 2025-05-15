@@ -5,3 +5,5 @@
   "pages/mbti/mbti",
   "pages/zodiac/zodiac"
 ]
+
+{}
