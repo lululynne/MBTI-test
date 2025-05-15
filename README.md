@@ -25,3 +25,5 @@ git push -u origin master
 ssh-keygen -t ed25519 -C "你的GitHub邮箱"
 
 ssh-keygen -t ed25519 -C "guanforlol@gmail.com"
+
+cat ~/.ssh/id_ed25519.pub
