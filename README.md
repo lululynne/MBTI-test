@@ -19,3 +19,6 @@ git add .
 cd /e/xiaochengxu/aihe_softbody_mini
 
 git commit -m "init commit"
+
+
+git remote add origin git@github.com:lululynne/softbody-miniapp.git
