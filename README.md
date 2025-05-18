@@ -17,3 +17,5 @@ cd /e/xiaochengxu/aihe_softbody_mini
 git add .
 
 cd /e/xiaochengxu/aihe_softbody_mini
+
+git commit -m "init commit"
