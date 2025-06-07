@@ -1,4 +1,4 @@
- # MBTI-test
+ 
 
 # 输入：chatgpt_export.json 文件（已上传）
 # 输出：格式化 txt 文本字符串
